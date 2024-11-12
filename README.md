@@ -1,2 +1,2 @@
 # CRUD-using-ReactQuery
-A basic CRUD operation using ReactQuery and MERN stack
+A basic concept of using ReactQuery to manage data and server.

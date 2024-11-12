@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=NOvx4LB6Hfk
+1) using dummy json data from 
+https://jsonplaceholder.typicode.com/todos
+https://jsonplaceholder.typicode.com/posts
+
+2) instal react query dependency
+npm i @tanstack/react-query
+
+3) 
